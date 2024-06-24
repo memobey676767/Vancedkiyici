@@ -84,20 +84,20 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/resim-03-14"
+    "START_IMG_URL", "https://telegra.ph/Panda-06-24-7"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/resim-03-14")
-PLAYLIST_IMG_URL = "https://telegra.ph/resim-03-14"
-STATS_IMG_URL = "https://telegra.ph/resim-03-14"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/resim-03-14"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/resim-03-14"
-STREAM_IMG_URL = "https://telegra.ph/resim-03-14"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/resim-03-14"
-YOUTUBE_IMG_URL = "https://telegra.ph/resim-03-14"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/resim-03-14"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/resim-03-14"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/resim-03-14"
+    "PING_IMG_URL", "https://telegra.ph/Panda-06-24-7")
+PLAYLIST_IMG_URL = "https://telegra.ph/Panda-06-24-7"
+STATS_IMG_URL = "https://telegra.ph/Panda-06-24-7"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/Panda-06-24-7"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/Panda-06-24-7"
+STREAM_IMG_URL = "https://telegra.ph/Panda-06-24-7"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/Panda-06-24-7"
+YOUTUBE_IMG_URL = "https://telegra.ph/Panda-06-24-7"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/Panda-06-24-7"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/Panda-06-24-7"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/Panda-06-24-7"
 
 
 def time_to_seconds(time):
