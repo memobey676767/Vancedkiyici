@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "20929842",
+        "value": 22659994"",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "db6d6418c51f51cf89fc3b935a837afd",
+        "value": "2c89964a0088a7a39ec819c60ae67de7",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "7282496545:AAEyugejcvp2sA5vriV4LB4Z5Q8sAkPtdHk",
+        "value": "5909970619:AAFdXkt2Hmx7n9DEB91EtywZRpefsc5RZ5c",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -39,17 +39,17 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "BAE_XTIAFGwYtrZ6Y5wMxEKzwlrU5pU4fAKiQTLVDvTKSdEaF8sDYaJ-kKD38Ii-mM4cvHJakYvJGnt01dkm9t2k-vNCzeZ-O88fU_XidAcdqnI7KnzG-562EUSQZ7VsFYpzzxjJ1Ak48KvdOdKPkxbJNCfbgK7Fuom-AjeWbokBd1LdqXR1gEPVTLcr8OwnDtFa5hDPpokwOfyHMs5yxxRDzbtCV9IktYkSPzPZKf57bYgBxygBMwDtkDSfAPeuPpXG2FQAqNOmokaIEVd3eqVn7d_vixkwjl9IhebBq7aAFdozb6guvwBQ7XD6PtaZBTKgkr1kR4nKdIMFlxGDvTHTgyiVYwAAAAG179LvAA",
+        "value": "BAFZw5oAgewWLrNY04sek0zw_KOu7oSYv20zzf1pzP2A12BMqIAUFj-HupbN6N90Z4pjtIWJ9kNBjMkewWOS6Xt3MFKhdto1iOAwru258wWqCPajF5Zgb0qXAsWgH1tfUjm3eqa7FI5qLFe-aTo8CDiN3ww8IKMbW6HeRPAn7II_7qrwo1DaUlA6bx943BkA7FNWhd_lVXMkOQ27UfK-uMj-o3Djnx2vngAVlEmxHqn6RCYSppsc89xcwlT2nL8alTNZ8qowVsjlIm1HGtuq_3CjhXXuPBEuGHG-VljGTwb9D3pWGQ6IL-500m4_reH3PJN2NYjYtrFNzDTsqTVmuxSA4ATJRQAAAAG-dXUpAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "HRKU-0a573a2c-23ca-42a8-967b-b63032aeb6a9",
+        "value": "HRKU-0580452f-5f10-4047-bf46-86e77e1c5027",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "vancedkyc",
+        "value": "pulsarmzk",
         "required": false
       },
       "LOGGER_ID": {
