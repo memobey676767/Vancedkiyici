@@ -11,10 +11,10 @@ API_ID = int(getenv(22659994))
 API_HASH = getenv("2c89964a0088a7a39ec819c60ae67de7")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("5909970619:AAEy3x02B8eyKN5ndhrYzlGqRf37K_ND0zg")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://acha:acha@cluster0.pjq3j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 360))
 
@@ -46,7 +46,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kycmusicdestek")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/kiyicitayfaa")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
@@ -65,7 +65,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 3221225472))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BAFZw5oAgewWLrNY04sek0zw_KOu7oSYv20zzf1pzP2A12BMqIAUFj-HupbN6N90Z4pjtIWJ9kNBjMkewWOS6Xt3MFKhdto1iOAwru258wWqCPajF5Zgb0qXAsWgH1tfUjm3eqa7FI5qLFe-aTo8CDiN3ww8IKMbW6HeRPAn7II_7qrwo1DaUlA6bx943BkA7FNWhd_lVXMkOQ27UfK-uMj-o3Djnx2vngAVlEmxHqn6RCYSppsc89xcwlT2nL8alTNZ8qowVsjlIm1HGtuq_3CjhXXuPBEuGHG-VljGTwb9D3pWGQ6IL-500m4_reH3PJN2NYjYtrFNzDTsqTVmuxSA4ATJRQAAAAG-dXUpAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
